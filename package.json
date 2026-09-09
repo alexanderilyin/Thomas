@@ -23,11 +23,11 @@
     "docs:build": "mkdocs build --strict"
   },
   "peerDependencies": {
-    "@cucumber/cucumber": "^12.2.0",
+    "@cucumber/cucumber": "^13.2.1",
     "tsx": "^4.19.0"
   },
   "devDependencies": {
-    "@cucumber/cucumber": "^12.2.0",
+    "@cucumber/cucumber": "^13.2.1",
     "@cucumber/pretty-formatter": "^4.0.2",
     "@types/jmespath": "^0.15.2",
     "@types/js-yaml": "^4.0.9",
